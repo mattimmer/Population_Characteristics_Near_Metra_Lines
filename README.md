@@ -1,1 +1,7 @@
 # Population_Characteristics_Near_Metra_Lines
+
+There are two main files in the main branch, first the folder Data Files which contains are raw, cleaned, and final data used in the final research.  The second file is Income, Unemployment, Population, near train lines.doc.  This is the final research in report form with all final data, graphs, and conclusions.
+
+Abstract:
+The goal in this research project was to test the difference in median income, population density, and unemployment rates between populations that lived on or near Metra train lines, and populations that did not live on or near Metra train lines.  I broke down the Illinois population into census tracts, and only focused on tracts near the Chicagoland area, which I considered the grand scope of how far the tracks spread out from Chicago.  I created three choropleth maps depicting each of my three factors with the Metra train lines overlaying these color maps.  I was able to split the tracts into the rail line/non rail line groups and then analyzed the averages of my three factors based on this split.  My original hypothesis of believing median income, population density, and unemployment would all be higher in rail line tracts was proven wrong after the analysis was done.  Out of the three, only unemployment showed to be higher in the rail line tracts, while median income and population density both were higher in non-rail tracts.  
+
